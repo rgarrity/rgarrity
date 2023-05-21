@@ -2,4 +2,4 @@ I'm working on GIS technical documentation. Check it out at https://pro.arcgis.c
 
 Or maybe I'm out climbing (and rappelling, etc.):
 
-![image](https://github.com/rgarrity/rgarrity/assets/7049342/5ac8b244-1cff-4b00-8fd3-c39db9f98be3)
+![image](https://github.com/rgarrity/rgarrity/assets/7049342/bf38bf4b-1277-427d-a68f-8d587ecaaedf)
