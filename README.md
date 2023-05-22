@@ -8,3 +8,7 @@ I'm working on ArcGIS Pro technical documentation. Check it out at https://pro.a
 | ![image](https://github.com/rgarrity/rgarrity/blob/main/planting-rye-nov-2022.GIF) | ![image](https://github.com/rgarrity/rgarrity/blob/main/cereal-rye-cover-crop.jpg) |
 | :---: | :---: |
 | Planting cereal rye as a winter cover crop to **capture carbon**, **reduce erosion**, and **build up organic matter** in the soil. | Enjoying the sight of it in springtime. |
+
+
+test image:
+![image](https://github.com/rgarrity/rgarrity/blob/rgarrity-patch-1/skid-steer-ramp.jpg)
