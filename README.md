@@ -4,7 +4,7 @@ I'm working on ArcGIS Pro technical documentation. Check it out at [https://pro.
 
 | ![image](https://github.com/rgarrity/rgarrity/assets/7049342/bf38bf4b-1277-427d-a68f-8d587ecaaedf) | ![image](cathedral-peak.jpg) |
 | :---: | :---: |
-| --- |  ---  |
+| Horseman's Center |  On Cathedral Peak  |
 
 
 | ![image](planting-rye-nov-2022.GIF) | ![image](cereal-rye-cover-crop.jpg) |
