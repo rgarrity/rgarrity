@@ -8,3 +8,5 @@ I'm working on ArcGIS Pro technical documentation. Check it out at https://pro.a
 | ![image](planting-rye-nov-2022.GIF) | ![image](cereal-rye-cover-crop.jpg) |
 | :---: | :---: |
 | Planting cereal rye as a winter cover crop to **capture carbon**, **reduce erosion**, and **build up organic matter** in the soil. | Enjoying the sight of it in springtime. |
+
+------------
